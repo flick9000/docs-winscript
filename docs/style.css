@@ -7,7 +7,8 @@
   --cta: #1a90ff;
 }
 
-html {
+html,
+body {
   background-color: var(--background);
 }
 

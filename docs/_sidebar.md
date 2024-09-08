@@ -1,6 +1,6 @@
 - Getting Started
 
-  - [WinScript](/)
+  - [WinScript](README)
 
 - Scripts
   - [Debloat](debloat.md)
